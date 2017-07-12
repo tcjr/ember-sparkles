@@ -63,7 +63,7 @@
     "ember-d3": "^0.3.2",
     "ember-d3-helpers": "0.5.14",
     "ember-interpolate-helper": "1.0.0",
-    "ember-lodash": "0.0.7",
+    "ember-lodash": "4.17.5",
     "ember-math-helpers": "~2.0.5",
     "ember-reactive-helpers": "0.4.0",
     "ember-resize": "0.0.13",
